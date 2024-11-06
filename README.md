@@ -1,5 +1,5 @@
 # This project is an extension of Marp.
-
+- Open `src\example\example.html` to see example
 - New features:
     - Clicking an image to show the original image, a feature that Marp for VS Code does not support.
     - Post process after `Marp CLI`, you can add new features based on this project.
